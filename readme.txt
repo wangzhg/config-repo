@@ -8,3 +8,4 @@ Remote push
 Create a branch dev test
 Create a new branch is quick & simple.
 Create a new branch is quick and simple
+test --no-ff
